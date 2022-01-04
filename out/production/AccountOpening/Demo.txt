@@ -1,1 +1,3 @@
 Sample file Demo
+second line
+third line
