@@ -5,5 +5,6 @@ public class SampleClass1 {
 
         System.out.println("First line of code");
         System.out.println("New Changes");
+System.out.println("New Updates");
     }
 }
